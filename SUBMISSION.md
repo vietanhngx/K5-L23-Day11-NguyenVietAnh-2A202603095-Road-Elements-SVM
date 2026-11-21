@@ -5,8 +5,8 @@ Nộp đúng 5 file lên kênh nộp bài coach chỉ định. Không gửi file
 - [ ] `<tên>-front.zip`: CVAT for images 1.1, **không kèm ảnh**; gồm task front (A01–A12) và front-extra nếu có làm.
 - [ ] `<tên>-fisheye.zip`: CVAT for images 1.1, **không kèm ảnh**; gồm task fisheye (B01–B08) và fisheye-extra nếu có làm.
 - [ ] `<tên>-manifest.json`: manifest bàn giao, không chấm điểm (xem [đặc tả bàn giao](docs/delivery_road_v1.0.md)).
-- [ ] `<tên>-qc1-for-<tên bạn được kiểm>.md`: Phiếu QC 1 đã điền theo [`templates/qc1_form.md`](templates/qc1_form.md).
-- [ ] `<tên>-report.md`: báo cáo theo [`templates/report.md`](templates/report.md).
+- [ ] `<tên>-qc1-for-<tên bạn được kiểm>.md`: Phiếu QC 1 đã điền theo [`templates/nguyenvietanh-qc1-for-luunhatnam.md`](templates/nguyenvietanh-qc1-for-luunhatnam.md).
+- [ ] `<tên>-report.md`: báo cáo theo [`templates/nguyenvietanh-report.md`](templates/nguyenvietanh-report.md).
 
 Trước khi nộp:
 

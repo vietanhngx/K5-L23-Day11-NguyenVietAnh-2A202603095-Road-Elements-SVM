@@ -7,3 +7,7 @@ submissions/
 out/
 *.zip
 .env
+
+!/templates/nguyenvietanh-front.zip
+
+!/templates/nguyenvietanh-fisheye.zip

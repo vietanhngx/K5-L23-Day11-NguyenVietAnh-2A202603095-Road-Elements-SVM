@@ -9,8 +9,8 @@
 | `<tên>-front.zip` | CVAT for images 1.1, không kèm ảnh; task front (A01–A12) và front-extra nếu có | có |
 | `<tên>-fisheye.zip` | CVAT for images 1.1, không kèm ảnh; task fisheye (B01–B08) và fisheye-extra nếu có | có |
 | `<tên>-manifest.json` | Manifest bàn giao do `road_check lint --manifest` tạo (mục 3) | không |
-| `<tên>-qc1-for-<tên bạn>.md` | Phiếu QC 1 theo [`templates/qc1_form.md`](../templates/qc1_form.md) | có |
-| `<tên>-report.md` | Báo cáo theo [`templates/report.md`](../templates/report.md) | có |
+| `<tên>-qc1-for-<tên bạn>.md` | Phiếu QC 1 theo [`templates/nguyenvietanh-qc1-for-luunhatnam.md`](../templates/nguyenvietanh-qc1-for-luunhatnam.md) | có |
+| `<tên>-report.md` | Báo cáo theo [`templates/nguyenvietanh-report.md`](../templates/nguyenvietanh-report.md) | có |
 
 `<tên>` viết liền, không dấu, không khoảng trắng (ví dụ `nguyenvanan`). Script chấm của coach tìm đúng tên `<tên>-front.zip` và `<tên>-fisheye.zip`, nên không thêm hậu tố.
 

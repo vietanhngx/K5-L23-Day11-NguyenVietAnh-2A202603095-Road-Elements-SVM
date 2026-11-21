@@ -127,7 +127,7 @@ python -m road_lab.road_check selftest [--gt GT_FRONT GT_FISHEYE]               
 - **Đầu ra:**
   - Tóm tắt trên màn hình.
   - JSON gồm `attempted_core`, `missing_core`, `checked_labels`, `checked_by_code`, số lỗi theo mức, `major_rate`, `decision_auto`, `auto_score/auto_max`, các dòng `rubric`, `findings`.
-  - Phiếu QC 1 tự động (markdown, cùng mẫu với `templates/qc1_form.md`).
+  - Phiếu QC 1 tự động (markdown, cùng mẫu với `templates/nguyenvietanh-qc1-for-luunhatnam.md`).
   - Lệnh `batch` ghi thêm `scores.csv`.
   - `lint --manifest` ghi manifest bàn giao JSON (`manifest: road-delivery/1`): định dạng, guideline, tên, `revision`, thời điểm UTC; mỗi file có `sha256`, số byte, `contains_images`, số ảnh, số ảnh đủ bốn tag, số ảnh chưa gán, số hình theo label; số cảnh báo lint theo mức. Manifest không chấm điểm và không kết luận chất lượng. Đặc tả: `docs/delivery_road_v1.0.md`. [LC]
 - **Quyết định tự động:**
